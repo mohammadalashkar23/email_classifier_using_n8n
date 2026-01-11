@@ -13,11 +13,7 @@ AI-powered Gmail sorter that automatically classifies emails into **Job Applicat
 
 ## How It Works
 
-Gmail Trigger (every minute)
-     ↓
-OpenAI Text Classifier (GPT-4.1-mini) 
-     ↓
-Add Gmail Labels (Job/Scholarship/Others)
+Gmail Trigger (every minute) → OpenAI Text Classifier (GPT-4.1-mini) → Add Gmail Labels (Job/Scholarship/Others)
 
 
 
